@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/brandon/Documents/GitHub/2026-Spring-GAME240-01/Project/Class4/Class4.csproj": {}
+    "C:\\Users\\ander\\OneDrive\\Documents\\GitHub\\2026-Spring-GAME240-01\\Project\\Class4\\Class4.csproj": {}
   },
   "projects": {
-    "/Users/brandon/Documents/GitHub/2026-Spring-GAME240-01/Project/Class4/Class4.csproj": {
+    "C:\\Users\\ander\\OneDrive\\Documents\\GitHub\\2026-Spring-GAME240-01\\Project\\Class4\\Class4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/brandon/Documents/GitHub/2026-Spring-GAME240-01/Project/Class4/Class4.csproj",
+        "projectUniqueName": "C:\\Users\\ander\\OneDrive\\Documents\\GitHub\\2026-Spring-GAME240-01\\Project\\Class4\\Class4.csproj",
         "projectName": "Class4",
-        "projectPath": "/Users/brandon/Documents/GitHub/2026-Spring-GAME240-01/Project/Class4/Class4.csproj",
-        "packagesPath": "/Users/brandon/.nuget/packages/",
-        "outputPath": "/Users/brandon/Documents/GitHub/2026-Spring-GAME240-01/Project/Class4/obj/",
+        "projectPath": "C:\\Users\\ander\\OneDrive\\Documents\\GitHub\\2026-Spring-GAME240-01\\Project\\Class4\\Class4.csproj",
+        "packagesPath": "C:\\Users\\ander\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ander\\OneDrive\\Documents\\GitHub\\2026-Spring-GAME240-01\\Project\\Class4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/brandon/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\ander\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -37,7 +37,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -58,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/Users/brandon/.dotnet/sdk/8.0.413/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Users\\ander\\.dotnet\\sdk\\9.0.311/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
