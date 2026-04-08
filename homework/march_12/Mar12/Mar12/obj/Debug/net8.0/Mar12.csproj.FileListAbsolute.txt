@@ -1,0 +1,15 @@
+C:\Users\ander\Documents\Github\2026-Spring-GAME240-01\homework\march_12\Mar12\Mar12\bin\Debug\net8.0\Mar12.exe
+C:\Users\ander\Documents\Github\2026-Spring-GAME240-01\homework\march_12\Mar12\Mar12\bin\Debug\net8.0\Mar12.deps.json
+C:\Users\ander\Documents\Github\2026-Spring-GAME240-01\homework\march_12\Mar12\Mar12\bin\Debug\net8.0\Mar12.runtimeconfig.json
+C:\Users\ander\Documents\Github\2026-Spring-GAME240-01\homework\march_12\Mar12\Mar12\bin\Debug\net8.0\Mar12.dll
+C:\Users\ander\Documents\Github\2026-Spring-GAME240-01\homework\march_12\Mar12\Mar12\bin\Debug\net8.0\Mar12.pdb
+C:\Users\ander\Documents\Github\2026-Spring-GAME240-01\homework\march_12\Mar12\Mar12\obj\Debug\net8.0\Mar12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\Documents\Github\2026-Spring-GAME240-01\homework\march_12\Mar12\Mar12\obj\Debug\net8.0\Mar12.AssemblyInfoInputs.cache
+C:\Users\ander\Documents\Github\2026-Spring-GAME240-01\homework\march_12\Mar12\Mar12\obj\Debug\net8.0\Mar12.AssemblyInfo.cs
+C:\Users\ander\Documents\Github\2026-Spring-GAME240-01\homework\march_12\Mar12\Mar12\obj\Debug\net8.0\Mar12.csproj.CoreCompileInputs.cache
+C:\Users\ander\Documents\Github\2026-Spring-GAME240-01\homework\march_12\Mar12\Mar12\obj\Debug\net8.0\Mar12.sourcelink.json
+C:\Users\ander\Documents\Github\2026-Spring-GAME240-01\homework\march_12\Mar12\Mar12\obj\Debug\net8.0\Mar12.dll
+C:\Users\ander\Documents\Github\2026-Spring-GAME240-01\homework\march_12\Mar12\Mar12\obj\Debug\net8.0\refint\Mar12.dll
+C:\Users\ander\Documents\Github\2026-Spring-GAME240-01\homework\march_12\Mar12\Mar12\obj\Debug\net8.0\Mar12.pdb
+C:\Users\ander\Documents\Github\2026-Spring-GAME240-01\homework\march_12\Mar12\Mar12\obj\Debug\net8.0\Mar12.genruntimeconfig.cache
+C:\Users\ander\Documents\Github\2026-Spring-GAME240-01\homework\march_12\Mar12\Mar12\obj\Debug\net8.0\ref\Mar12.dll
